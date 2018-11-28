@@ -23,7 +23,7 @@ import math
 def main():
     print("The length of the hypotenuse is", (hyp_length(a,b)))
     turtle_func('blue',2)
-    #turtle_func('purple',7)
+    turtle_func('purple',7)
     """
     TESTS the functions that you will write below.
     You write the tests per the _TODO_s below.
